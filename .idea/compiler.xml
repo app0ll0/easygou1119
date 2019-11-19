@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easygou-basic-util" />
+        <module name="easygou-config-server" />
+        <module name="easygou-eureka" />
+        <module name="easygou-plat-interface" />
+        <module name="easygou-plat-service" />
+        <module name="easygou-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easygou-basic-parent" target="8" />
+      <module name="easygou-basic-util" target="8" />
+      <module name="easygou-config" target="8" />
+      <module name="easygou-config-server" target="8" />
+      <module name="easygou-eureka" target="8" />
+      <module name="easygou-parent" target="8" />
+      <module name="easygou-plat-interface" target="8" />
+      <module name="easygou-plat-parent" target="8" />
+      <module name="easygou-plat-service" target="8" />
+      <module name="easygou-zuul" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

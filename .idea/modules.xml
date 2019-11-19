@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easygou-basic-parent/easygou-basic-parent.iml" filepath="$PROJECT_DIR$/easygou-basic-parent/easygou-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easygou-basic-parent/easygou-basic-util/easygou-basic-util.iml" filepath="$PROJECT_DIR$/easygou-basic-parent/easygou-basic-util/easygou-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easygou-config-server/easygou-config-server.iml" filepath="$PROJECT_DIR$/easygou-config-server/easygou-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easygou-eureka/easygou-eureka.iml" filepath="$PROJECT_DIR$/easygou-eureka/easygou-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easygou-parent.iml" filepath="$PROJECT_DIR$/easygou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easygou-plat-parent/easygou-plat-interface/easygou-plat-interface.iml" filepath="$PROJECT_DIR$/easygou-plat-parent/easygou-plat-interface/easygou-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easygou-plat-parent/easygou-plat-parent.iml" filepath="$PROJECT_DIR$/easygou-plat-parent/easygou-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easygou-plat-parent/easygou-plat-service/easygou-plat-service.iml" filepath="$PROJECT_DIR$/easygou-plat-parent/easygou-plat-service/easygou-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easygou-zuul/easygou-zuul.iml" filepath="$PROJECT_DIR$/easygou-zuul/easygou-zuul.iml" />
+    </modules>
+  </component>
+</project>
